@@ -16,7 +16,7 @@ Once I got the output of that, we received the inode and was able to utilize the
 
 "icat -o 2048 dds2-alpine.flag.img 18291"
 
-# flag 
+# Flag 
 
 picoCTF{f0r3ns1c4t0r_n0v1c3_0ba8d02d}
 
